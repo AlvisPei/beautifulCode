@@ -1,3 +1,11 @@
+jQuery.AjaxFileUpload.js是一款jQuery插件，用于通过ajax上传文件。
+
+功能特点：
+
+它不依赖于特定的HTML，只要给它一个“<INPUTTYPE="file">
+它不需要你的服务器响应时指定任何特定方式
+可以对大批量文件进行操作
+
 This plugin uploads the file somehwere, and passes the
 response to a callback, nothing else. 
 
